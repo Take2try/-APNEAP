@@ -1,2 +1,4 @@
 # -APNEAP
-Codes for paper "Augmented Privacy Neuron Editing via Activation Patching"
+Anonymous Codes for the paper "Mitigating Privacy Seesaw in Large Language Models: Augmented Privacy Neuron Editing via Activation Patching"
+
+
